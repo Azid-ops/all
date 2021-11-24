@@ -1,0 +1,27 @@
+.outerDiv
+{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 5%;
+}
+
+.signup
+{
+    color:#df4602
+}
+
+.outerDiv1
+{
+    text-align: center;
+}
+
+.button
+{
+    width:23%;
+    background-color:green;
+    border:none;
+    padding:10px;
+    margin-top:2%;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}

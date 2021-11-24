@@ -1,0 +1,29 @@
+.continue
+{
+    text-align: center;
+    width:50%;
+    margin: auto;
+    margin-top:5%;
+}
+
+h2
+{
+    color:#df4602;
+    font-family: 'Roboto', sans-serif;
+}
+
+.material
+{
+    border: 1px solid gray;
+    padding:1%;
+    margin: auto;
+    width:70%;
+    margin-top:2%;
+    border-radius: 6px;
+}
+
+.materials
+{
+    text-decoration: none;
+    color:black;
+}
